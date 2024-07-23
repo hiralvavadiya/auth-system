@@ -1,0 +1,10 @@
+MVC
+
+    Model ( Schema )                  Database updated
+        -> Database
+    
+    Controller ( Logic )               goes back to model
+        -> Function
+    
+    Routing ( Function Call )          goes back to Controller
+        -> URL
